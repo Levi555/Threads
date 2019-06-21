@@ -1,0 +1,10 @@
+/Users/xiangxingxing/Projects/Threads/析构函数/bin/Debug/netcoreapp2.2/析构函数.deps.json
+/Users/xiangxingxing/Projects/Threads/析构函数/bin/Debug/netcoreapp2.2/析构函数.runtimeconfig.json
+/Users/xiangxingxing/Projects/Threads/析构函数/bin/Debug/netcoreapp2.2/析构函数.runtimeconfig.dev.json
+/Users/xiangxingxing/Projects/Threads/析构函数/bin/Debug/netcoreapp2.2/析构函数.dll
+/Users/xiangxingxing/Projects/Threads/析构函数/bin/Debug/netcoreapp2.2/析构函数.pdb
+/Users/xiangxingxing/Projects/Threads/析构函数/obj/Debug/netcoreapp2.2/析构函数.csproj.CoreCompileInputs.cache
+/Users/xiangxingxing/Projects/Threads/析构函数/obj/Debug/netcoreapp2.2/析构函数.AssemblyInfoInputs.cache
+/Users/xiangxingxing/Projects/Threads/析构函数/obj/Debug/netcoreapp2.2/析构函数.AssemblyInfo.cs
+/Users/xiangxingxing/Projects/Threads/析构函数/obj/Debug/netcoreapp2.2/析构函数.dll
+/Users/xiangxingxing/Projects/Threads/析构函数/obj/Debug/netcoreapp2.2/析构函数.pdb
