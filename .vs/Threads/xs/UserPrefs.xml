@@ -1,14 +1,15 @@
 ﻿<Properties StartupConfiguration="{6F77862E-6420-4571-A03B-2211838E19C2}|Default">
   <MonoDevelop.Ide.ItemProperties.StreamDemo PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.ThreadTest PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="AsyncTask/Program.cs">
+    <Files>
+      <File FileName="AsyncTask/Program.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Threads" expanded="True">
-            <Node name="AsyncTask" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="AsyncTask" expanded="True" selected="True" />
             <Node name="StreamDemo" expanded="True" />
           </Node>
         </State>
