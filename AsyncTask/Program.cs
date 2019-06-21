@@ -1,5 +1,4 @@
 ﻿using System;
-
 namespace AsyncTask
 {
     class Program
@@ -15,9 +14,7 @@ namespace AsyncTask
             Console.ReadKey();
         }
     }
-
     public class Rectangle    {        public readonly float Width, Height;        public Rectangle(float width, float height)        {            Width = width;            Height = height;        }
-
         //在该类型内部声明析构函数
         //public void Deconstruct(out float width,out float height)
         //{
@@ -25,7 +22,6 @@ namespace AsyncTask
         //    height = Height;
         //}
     }
-
     //k扩展方法声明类型的析构函数
     public static class Extension    {        public static void Deconstruct(this Rectangle rect, out float width, out float height)        {            width = rect.Width;            height = rect.Height;        }    }
 }
