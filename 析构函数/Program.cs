@@ -13,9 +13,15 @@ namespace 析构函数
         }
     }
 
-    public class Rectangle    {        public readonly float Width, Height;        public Rectangle(float width, float height)        {            Width = width;            Height = height;        }
+    public class Rectangle
+    {
+        internal  readonly float Width, Height;
+        public Rectangle(float width,float height)
+        {
+              Width = width;
+                Height = height;
+        }
     }
-
     public static class Extension
     {
         public static void Deconstruct(this Rectangle rectangle,out float width,out float height)
