@@ -24,5 +24,10 @@ namespace ThreadTest
                 Thread.Sleep(100);
             }
         }
+
+        static void Test()
+        {
+            Console.WriteLine("是否有^M");
+        }
     }
 }
