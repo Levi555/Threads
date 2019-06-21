@@ -1,0 +1,10 @@
+/Users/xiangxingxing/Projects/Threads/AsyncTask/bin/Debug/netcoreapp2.2/AsyncTask.deps.json
+/Users/xiangxingxing/Projects/Threads/AsyncTask/bin/Debug/netcoreapp2.2/AsyncTask.runtimeconfig.json
+/Users/xiangxingxing/Projects/Threads/AsyncTask/bin/Debug/netcoreapp2.2/AsyncTask.runtimeconfig.dev.json
+/Users/xiangxingxing/Projects/Threads/AsyncTask/bin/Debug/netcoreapp2.2/AsyncTask.dll
+/Users/xiangxingxing/Projects/Threads/AsyncTask/bin/Debug/netcoreapp2.2/AsyncTask.pdb
+/Users/xiangxingxing/Projects/Threads/AsyncTask/obj/Debug/netcoreapp2.2/AsyncTask.csproj.CoreCompileInputs.cache
+/Users/xiangxingxing/Projects/Threads/AsyncTask/obj/Debug/netcoreapp2.2/AsyncTask.AssemblyInfoInputs.cache
+/Users/xiangxingxing/Projects/Threads/AsyncTask/obj/Debug/netcoreapp2.2/AsyncTask.AssemblyInfo.cs
+/Users/xiangxingxing/Projects/Threads/AsyncTask/obj/Debug/netcoreapp2.2/AsyncTask.dll
+/Users/xiangxingxing/Projects/Threads/AsyncTask/obj/Debug/netcoreapp2.2/AsyncTask.pdb

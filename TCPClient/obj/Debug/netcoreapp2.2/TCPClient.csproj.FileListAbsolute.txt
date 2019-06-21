@@ -1,0 +1,11 @@
+/Users/xiangxingxing/Projects/Threads/TCPClient/bin/Debug/netcoreapp2.2/TCPClient.deps.json
+/Users/xiangxingxing/Projects/Threads/TCPClient/bin/Debug/netcoreapp2.2/TCPClient.runtimeconfig.json
+/Users/xiangxingxing/Projects/Threads/TCPClient/bin/Debug/netcoreapp2.2/TCPClient.runtimeconfig.dev.json
+/Users/xiangxingxing/Projects/Threads/TCPClient/bin/Debug/netcoreapp2.2/TCPClient.dll
+/Users/xiangxingxing/Projects/Threads/TCPClient/bin/Debug/netcoreapp2.2/TCPClient.pdb
+/Users/xiangxingxing/Projects/Threads/TCPClient/obj/Debug/netcoreapp2.2/TCPClient.csproj.CoreCompileInputs.cache
+/Users/xiangxingxing/Projects/Threads/TCPClient/obj/Debug/netcoreapp2.2/TCPClient.AssemblyInfoInputs.cache
+/Users/xiangxingxing/Projects/Threads/TCPClient/obj/Debug/netcoreapp2.2/TCPClient.AssemblyInfo.cs
+/Users/xiangxingxing/Projects/Threads/TCPClient/obj/Debug/netcoreapp2.2/TCPClient.dll
+/Users/xiangxingxing/Projects/Threads/TCPClient/obj/Debug/netcoreapp2.2/TCPClient.pdb
+/Users/xiangxingxing/Projects/Threads/TCPClient/obj/Debug/netcoreapp2.2/TCPClient.csprojAssemblyReference.cache

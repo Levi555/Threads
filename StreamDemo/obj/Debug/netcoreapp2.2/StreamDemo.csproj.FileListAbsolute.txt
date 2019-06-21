@@ -1,0 +1,10 @@
+/Users/xiangxingxing/Projects/Threads/StreamDemo/bin/Debug/netcoreapp2.2/StreamDemo.deps.json
+/Users/xiangxingxing/Projects/Threads/StreamDemo/bin/Debug/netcoreapp2.2/StreamDemo.runtimeconfig.json
+/Users/xiangxingxing/Projects/Threads/StreamDemo/bin/Debug/netcoreapp2.2/StreamDemo.runtimeconfig.dev.json
+/Users/xiangxingxing/Projects/Threads/StreamDemo/bin/Debug/netcoreapp2.2/StreamDemo.dll
+/Users/xiangxingxing/Projects/Threads/StreamDemo/bin/Debug/netcoreapp2.2/StreamDemo.pdb
+/Users/xiangxingxing/Projects/Threads/StreamDemo/obj/Debug/netcoreapp2.2/StreamDemo.csproj.CoreCompileInputs.cache
+/Users/xiangxingxing/Projects/Threads/StreamDemo/obj/Debug/netcoreapp2.2/StreamDemo.AssemblyInfoInputs.cache
+/Users/xiangxingxing/Projects/Threads/StreamDemo/obj/Debug/netcoreapp2.2/StreamDemo.AssemblyInfo.cs
+/Users/xiangxingxing/Projects/Threads/StreamDemo/obj/Debug/netcoreapp2.2/StreamDemo.dll
+/Users/xiangxingxing/Projects/Threads/StreamDemo/obj/Debug/netcoreapp2.2/StreamDemo.pdb

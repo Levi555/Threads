@@ -1,0 +1,11 @@
+/Users/xiangxingxing/Projects/Threads/TCPServer服务器/bin/Debug/netcoreapp2.2/TCPServer服务器.deps.json
+/Users/xiangxingxing/Projects/Threads/TCPServer服务器/bin/Debug/netcoreapp2.2/TCPServer服务器.runtimeconfig.json
+/Users/xiangxingxing/Projects/Threads/TCPServer服务器/bin/Debug/netcoreapp2.2/TCPServer服务器.runtimeconfig.dev.json
+/Users/xiangxingxing/Projects/Threads/TCPServer服务器/bin/Debug/netcoreapp2.2/TCPServer服务器.dll
+/Users/xiangxingxing/Projects/Threads/TCPServer服务器/bin/Debug/netcoreapp2.2/TCPServer服务器.pdb
+/Users/xiangxingxing/Projects/Threads/TCPServer服务器/obj/Debug/netcoreapp2.2/TCPServer服务器.csprojAssemblyReference.cache
+/Users/xiangxingxing/Projects/Threads/TCPServer服务器/obj/Debug/netcoreapp2.2/TCPServer服务器.csproj.CoreCompileInputs.cache
+/Users/xiangxingxing/Projects/Threads/TCPServer服务器/obj/Debug/netcoreapp2.2/TCPServer服务器.AssemblyInfoInputs.cache
+/Users/xiangxingxing/Projects/Threads/TCPServer服务器/obj/Debug/netcoreapp2.2/TCPServer服务器.AssemblyInfo.cs
+/Users/xiangxingxing/Projects/Threads/TCPServer服务器/obj/Debug/netcoreapp2.2/TCPServer服务器.dll
+/Users/xiangxingxing/Projects/Threads/TCPServer服务器/obj/Debug/netcoreapp2.2/TCPServer服务器.pdb

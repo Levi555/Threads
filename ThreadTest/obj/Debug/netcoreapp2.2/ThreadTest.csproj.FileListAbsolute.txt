@@ -1,0 +1,11 @@
+/Users/xiangxingxing/Projects/Threads/ThreadTest/bin/Debug/netcoreapp2.2/ThreadTest.deps.json
+/Users/xiangxingxing/Projects/Threads/ThreadTest/bin/Debug/netcoreapp2.2/ThreadTest.runtimeconfig.json
+/Users/xiangxingxing/Projects/Threads/ThreadTest/bin/Debug/netcoreapp2.2/ThreadTest.runtimeconfig.dev.json
+/Users/xiangxingxing/Projects/Threads/ThreadTest/bin/Debug/netcoreapp2.2/ThreadTest.dll
+/Users/xiangxingxing/Projects/Threads/ThreadTest/bin/Debug/netcoreapp2.2/ThreadTest.pdb
+/Users/xiangxingxing/Projects/Threads/ThreadTest/obj/Debug/netcoreapp2.2/ThreadTest.csprojAssemblyReference.cache
+/Users/xiangxingxing/Projects/Threads/ThreadTest/obj/Debug/netcoreapp2.2/ThreadTest.csproj.CoreCompileInputs.cache
+/Users/xiangxingxing/Projects/Threads/ThreadTest/obj/Debug/netcoreapp2.2/ThreadTest.AssemblyInfoInputs.cache
+/Users/xiangxingxing/Projects/Threads/ThreadTest/obj/Debug/netcoreapp2.2/ThreadTest.AssemblyInfo.cs
+/Users/xiangxingxing/Projects/Threads/ThreadTest/obj/Debug/netcoreapp2.2/ThreadTest.dll
+/Users/xiangxingxing/Projects/Threads/ThreadTest/obj/Debug/netcoreapp2.2/ThreadTest.pdb
