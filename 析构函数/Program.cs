@@ -22,6 +22,7 @@ namespace 析构函数
                 Height = height;
         }
     }
+    //扩展方法
     public static class Extension
     {
         public static void Deconstruct(this Rectangle rectangle,out float width,out float height)
