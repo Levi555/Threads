@@ -1,0 +1,10 @@
+/Users/xiangxingxing/Projects/Threads/排序/bin/Debug/netcoreapp2.2/排序.deps.json
+/Users/xiangxingxing/Projects/Threads/排序/bin/Debug/netcoreapp2.2/排序.runtimeconfig.json
+/Users/xiangxingxing/Projects/Threads/排序/bin/Debug/netcoreapp2.2/排序.runtimeconfig.dev.json
+/Users/xiangxingxing/Projects/Threads/排序/bin/Debug/netcoreapp2.2/排序.dll
+/Users/xiangxingxing/Projects/Threads/排序/bin/Debug/netcoreapp2.2/排序.pdb
+/Users/xiangxingxing/Projects/Threads/排序/obj/Debug/netcoreapp2.2/排序.csproj.CoreCompileInputs.cache
+/Users/xiangxingxing/Projects/Threads/排序/obj/Debug/netcoreapp2.2/排序.AssemblyInfoInputs.cache
+/Users/xiangxingxing/Projects/Threads/排序/obj/Debug/netcoreapp2.2/排序.AssemblyInfo.cs
+/Users/xiangxingxing/Projects/Threads/排序/obj/Debug/netcoreapp2.2/排序.dll
+/Users/xiangxingxing/Projects/Threads/排序/obj/Debug/netcoreapp2.2/排序.pdb

@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncTask", "AsyncTask\Asyn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "析构函数", "析构函数\析构函数.csproj", "{46CBA4D4-5309-4574-92EA-3492EC2FB58A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "排序", "排序\排序.csproj", "{1DBB9A62-45B3-42B3-933F-4223141B55C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,5 +45,9 @@ Global
 		{46CBA4D4-5309-4574-92EA-3492EC2FB58A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46CBA4D4-5309-4574-92EA-3492EC2FB58A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46CBA4D4-5309-4574-92EA-3492EC2FB58A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DBB9A62-45B3-42B3-933F-4223141B55C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DBB9A62-45B3-42B3-933F-4223141B55C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DBB9A62-45B3-42B3-933F-4223141B55C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DBB9A62-45B3-42B3-933F-4223141B55C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
